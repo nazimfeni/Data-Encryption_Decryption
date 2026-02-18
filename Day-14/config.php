@@ -1,0 +1,3 @@
+<?php
+define("SECRET_KEY", "12345678901234567890123456789012"); // 32 char
+define("METHOD", "AES-256-CBC");
